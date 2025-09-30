@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzNTk2LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4ODE3MzE4RDZmRkY2NkExOGQ4M0ExMzc2QTc2RjZlMzBCNDNjODg4OSJ9",
+    "payload": "eyJkb21haW4iOiJ2aWJlcy1lbmdpbmVlcmluZy12aXRlLXRlbXBsYXRlLnZlcmNlbC5hcHAifQ",
+    "signature": "MHg4ZWZkM2Q1NWEyYTJiOTM1MGU3MjAxM2JjNzJhNGY5YThkY2UwNWFhYThlNDc1ZmUyNWExZmM2OWM0OWVhNzk1MjJlYTI2ODc4ZmNlMjFhZTYwYjBjZmIyZWUxMWFkMWJlZDg0ZTg3NGY1Y2NjZGFkNThiMmUzNTgyNGE5YzljYTFj"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Vibes Vite Template",
+    "iconUrl": "https://vibes-engineering-vite-template.vercel.app/logo.png",
+    "homeUrl": "https://vibes-engineering-vite-template.vercel.app",
+    "imageUrl": "https://vibes-engineering-vite-template.vercel.app/splash.png",
+    "buttonTitle": "Open Vibes Template",
+    "splashImageUrl": "https://vibes-engineering-vite-template.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff"
+  }
+}
